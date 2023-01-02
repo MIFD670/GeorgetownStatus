@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1556,
-    "timeDay": 1556,
-    "timeWeek": 1556,
-    "timeMonth": 1556,
-    "timeYear": 1556,
+    "time": 1634,
+    "timeDay": 1634,
+    "timeWeek": 1634,
+    "timeMonth": 1634,
+    "timeYear": 1634,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-database",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
-    "time": 390,
-    "timeDay": 390,
-    "timeWeek": 390,
-    "timeMonth": 390,
-    "timeYear": 390,
+    "uptime": "28.63%",
+    "uptimeDay": "28.63%",
+    "uptimeWeek": "28.63%",
+    "uptimeMonth": "28.63%",
+    "uptimeYear": "28.63%",
+    "time": 539,
+    "timeDay": 539,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2023-01-02": 29
+      "2023-01-02": 30
     }
   }
 ]
