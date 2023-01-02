@@ -6,7 +6,7 @@ sites:
   - name: Website
     url: https://playgeorge.town
   - name: Game Database
-    url: %DATABASE_URL
+    url: $DATABASE_URL
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
